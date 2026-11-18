@@ -1,325 +1,339 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contribuidores](https://img.shields.io/github/contributors/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/graphs/contributors) [![Forks](https://img.shields.io/github/forks/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/Optimizing/network/members) [![Estrelas](https://img.shields.io/github/stars/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/stargazers) [![Issues](https://img.shields.io/github/issues/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/issues)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contributors](https://img.shields.io/github/contributors/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/graphs/contributors) [![Forks](https://img.shields.io/github/forks/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/Optimizing/network/members) [![Stars](https://img.shields.io/github/stars/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/stargazers) [![Issues](https://img.shields.io/github/issues/wxypereira/awesome-cli.svg?style=solid)](https://github.com/wxypereira/awesome-cli/issues)
 
 # Awesome CLI
 
-> Largue as GUI e evolua mentalmente.
+> Drop the GUI and evolve mentally.
 
 ---
 
+**Language:** [🇧🇷 Português](README.pt.md) | [🇪🇸 Español](README.es.md) | [🇺🇸 English](README.md)
+
 <details>
-  <summary>Índice</summary>
+  <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#sobre-o-projeto">Sobre o projeto</a></li>
-    <li><a href="#entretenimento">Entretenimento</a></li>
-    <li><a href="#desenvolvimento">Desenvolvimento</a></li>
-    <li><a href="#produtividade">Produtividade</a></li>
-    <li><a href="#utilitários">Utilitários</a></li>
-    <li><a href="#arquivos-e-diretórios">Arquivos e Diretórios</a></li>
-    <li><a href="#manipulação-de-dados">Manipulação de Dados</a></li>
-    <li><a href="#controle-de-versão">Controle de Versão</a></li>
-    <li><a href="#mídia-e-gráficos">Mídia e Gráficos</a></li>
-    <li><a href="#conhecimento">Conhecimento</a></li>
-    <li><a href="#diversão">Diversão</a></li>
-    <li><a href="#licença">Licença</a></li>
+    <li><a href="#about-the-project">About the Project</a></li>
+    <li><a href="#entertainment">Entertainment</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#productivity">Productivity</a></li>
+    <li><a href="#utilities">Utilities</a></li>
+    <li><a href="#files-and-directories">Files and Directories</a></li>
+    <li><a href="#data-manipulation">Data Manipulation</a></li>
+    <li><a href="#version-control">Version Control</a></li>
+    <li><a href="#media-and-graphics">Media and Graphics</a></li>
+    <li><a href="#knowledge">Knowledge</a></li>
+    <li><a href="#fun">Fun</a></li>
+    <li><a href="#how-to-contribute">How to Contribute</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
 <br>
 
-## Sobre o projeto
+## About the Project
 
-O **awesome-cli** nasceu com o objetivo de centralizar e organizar as melhores ferramentas do **Terminal**. Aprender e usar as ferramentas certas pode economizar horas de trabalho.
+**awesome-cli** was born with the goal of centralizing and organizing the best **Terminal** tools. Learning and using the right tools can save hours of work.
 
-### Objetivos
+### Objectives
 
-* **Curadoria de Qualidade**: Listar apenas ferramentas ativamente mantidas, confiáveis e que realmente adicionam valor ao fluxo de trabalho no terminal.
-* **Descoberta**: Facilitar a busca por novas ferramentas, categorizando-as de forma lógica por funcionalidade (desenvolvimento, entretenimento, etc.).
-* **Comunidade**: Servir como um ponto de encontro para que desenvolvedores compartilhem descobertas e contribuam com suas próprias ferramentas favoritas.
+* **Quality Curation**: List only actively maintained, reliable tools that truly add value to the terminal workflow.
+* **Discovery**: Facilitate the search for new tools, categorizing them logically by functionality (development, entertainment, etc.).
+* **Community**: Serve as a meeting point for developers to share discoveries and contribute their own favorite tools.
 
-Este repositório não pretende ser um diretório exaustivo, mas sim uma fonte curada e de alta fidelidade para quem busca transformar o terminal em um ambiente mais poderoso, eficiente e agradável.
+This repository does not aim to be an exhaustive directory, but rather a curated, high-fidelity source for those seeking to transform the terminal into a more powerful, efficient, and enjoyable environment.
 
-## Entretenimento
+## Entertainment
 
-### Música
-- [cmus](https://github.com/cmus/cmus) - Player de música leve e poderoso.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Cliente MPD quase perfeito.
-- [spotatui](https://github.com/LargeModGames/spotatui) - Cliente Spotify TUI.
+### Music
+- [cmus](https://github.com/cmus/cmus) - Lightweight and powerful music player.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - Near-perfect MPD client.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify TUI client.
 
-### Vídeo e Filmes
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download de vídeos de diversos sites.
-- [mpv](https://mpv.io) - Player de vídeo versátil.
-- [moviemon](https://github.com/iCHAIT/moviemon) - Informações sobre filmes no terminal.
-- [movie](https://github.com/mayankchd/movie) - Busca rápida por filmes.
+### Video and Movies
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Video downloader from various sites.
+- [mpv](https://mpv.io) - Versatile video player.
+- [moviemon](https://github.com/iCHAIT/moviemon) - Movie information in the terminal.
+- [movie](https://github.com/mayankchd/movie) - Quick movie search.
 
 ### Games
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Simulador de construção e gerenciamento.
-- [Cataclysm-DDA](https://cataclysmdda.org) - RPG de sobrevivência pós-apocalíptico.
-- [Pokete](https://github.com/lxgr-linux/Pokete) - Um jogo inspirado em Pokémon no terminal.
-- [NetHack](https://www.nethack.org) - Clássico dungeon crawl.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Construction and management simulator.
+- [Cataclysm-DDA](https://cataclysmdda.org) - Post-apocalyptic survival RPG.
+- [Pokete](https://github.com/lxgr-linux/Pokete) - Pokémon-inspired game in the terminal.
+- [NetHack](https://www.nethack.org) - Classic dungeon crawl.
 
-### Livros e Notícias
-- [epr](https://github.com/wustho/epr) - Leitor de EPUB.
-- [epy](https://github.com/wustho/epy) - Leitor de EPUB baseado no epr.
-- [newsboat](https://github.com/newsboat/newsboat) - Leitor de RSS/Atom.
-- [mal-cli](https://github.com/L4z3x/mal-cli) - Interface para MyAnimeList.
-- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bíblia no terminal.
-- [SpeedRead](https://github.com/sunsations/speed_read) - Ferramenta de leitura rápida.
-- [medium-cli](https://github.com/djadmin/medium-cli) - Leia posts do Medium.
-- [hygg](https://github.com/kruserr/hygg) - Interface para o site Hygg.
+### Books and News
+- [epr](https://github.com/wustho/epr) - EPUB reader.
+- [epy](https://github.com/wustho/epy) - EPUB reader based on epr.
+- [newsboat](https://github.com/newsboat/newsboat) - RSS/Atom feed reader.
+- [mal-cli](https://github.com/L4z3x/mal-cli) - MyAnimeList interface.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible in the terminal.
+- [SpeedRead](https://github.com/sunsations/speed_read) - Speed reading tool.
+- [medium-cli](https://github.com/djadmin/medium-cli) - Read Medium posts.
+- [hygg](https://github.com/kruserr/hygg) - Interface for Hygg site.
 
-## Desenvolvimento
+## Development
 
-### Geral
-- [just](https://github.com/casey/just) - Executor de comandos moderno.
-- [grex](https://github.com/pemistahl/grex) - Ferramenta para gerar expressões regulares de exemplos.
-- [bitwise](https://github.com/mellowcandle/bitwise) - Calculadora de base e manipulador de bits.
-- [cgasm](https://github.com/bnagy/cgasm) - Ferramenta de busca x86 assembly.
-- [iola](https://github.com/pvarentsov/iola) - Socket client interativo.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Verifica se um site está online.
-- [reachable](https://github.com/italolelis/reachable) - Verifica a acessibilidade de domínios.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Gera relatórios HTML de diffs do git.
-- [mk](https://github.com/pycontribs/mk) - Atalho para criar diretórios e arquivos.
-- [bcal](https://github.com/jarun/bcal) - Calculadora de armazenamento e endereços.
-- [legit](https://github.com/captainsafia/legit) - Fluxo de trabalho de Git simplificado.
-- [mklicense](https://github.com/cezaraugusto/mklicense) - Cria arquivos de licença rapidamente.
-- [rebound](https://github.com/shobrook/rebound) - Busca respostas no Stack Overflow para erros de compilação.
-- [foy](https://github.com/zaaack/foy) - Ferramenta de build baseada em tarefas.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Adiciona rapidamente templates de .gitignore.
+### General
+- [just](https://github.com/casey/just) - Modern command runner.
+- [grex](https://github.com/pemistahl/grex) - Tool to generate regex from examples.
+- [bitwise](https://github.com/mellowcandle/bitwise) - Base calculator and bit manipulator.
+- [cgasm](https://github.com/bnagy/cgasm) - x86 assembly search tool.
+- [iola](https://github.com/pvarentsov/iola) - Interactive socket client.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Checks if a website is up.
+- [reachable](https://github.com/italolelis/reachable) - Checks domain accessibility.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Generates HTML reports from git diffs.
+- [mk](https://github.com/pycontribs/mk) - Shortcut to create directories and files.
+- [bcal](https://github.com/jarun/bcal) - Storage and address calculator.
+- [legit](https://github.com/captainsafia/legit) - Simplified Git workflow.
+- [mklicense](https://github.com/cezaraugusto/mklicense) - Quickly create license files.
+- [rebound](https://github.com/shobrook/rebound) - Searches Stack Overflow for compilation errors.
+- [foy](https://github.com/zaaack/foy) - Task-based build tool.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - Quickly add .gitignore templates.
 
-### Editores de Texto
-- [neovim](https://github.com/neovim/neovim) - Editor de texto extensível baseado no Vim.
-- [helix](https://github.com/helix-editor/helix) - Editor de texto modal moderno.
-- [micro](https://github.com/zyedidia/micro) - Editor de texto intuitivo e fácil de usar.
-- [vim](https://github.com/vim/vim) - O clássico editor modal.
-- [nano](https://www.nano-editor.org/download.php) - Editor de texto simples e direto.
+### Text Editors
+- [neovim](https://github.com/neovim/neovim) - Extensible Vim-based text editor.
+- [helix](https://github.com/helix-editor/helix) - Modern modal text editor.
+- [micro](https://github.com/zyedidia/micro) - Intuitive and easy-to-use text editor.
+- [vim](https://github.com/vim/vim) - The classic modal editor.
+- [nano](https://www.nano-editor.org/download.php) - Simple and straightforward text editor.
 
-### Bancos de Dados
-- [mycli](https://github.com/dbcli/mycli) - Cliente MySQL com autocompletar e destaque de sintaxe.
-- [pgcli](https://github.com/dbcli/pgcli) - Cliente Postgres com autocompletar e destaque de sintaxe.
-- [sqlline](https://github.com/julianhyde/sqlline) - Shell para emitir SQL via JDBC.
-- [iredis](https://github.com/laixintao/iredis) - Cliente Redis com autocompletar e destaque de sintaxe.
-- [usql](https://github.com/xo/usql) - Cliente SQL universal.
-- [rdsai-cli](https://github.com/aliyun/rdsai-cli) - Cliente MySQL alimentado por IA.
-- [squix](https://github.com/eduardofuncao/squix) - Cliente SQL com gerenciamento de queries.
+### Databases
+- [mycli](https://github.com/dbcli/mycli) - MySQL client with autocomplete and syntax highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocomplete and syntax highlighting.
+- [sqlline](https://github.com/julianhyde/sqlline) - Shell to execute SQL via JDBC.
+- [iredis](https://github.com/laixintao/iredis) - Redis client with autocomplete and syntax highlighting.
+- [usql](https://github.com/xo/usql) - Universal SQL client.
+- [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
+- [squix](https://github.com/eduardofuncao/squix) - SQL client with query management.
 
-### Inteligência Artificial (AI)
-- [yai](https://github.com/ekkinox/yai) - Assistente de terminal alimentado por IA.
-- [claude-code](https://code.claude.com/docs) - Interface CLI para Claude.
-- [gemini](https://geminicli.com/) - Cliente CLI para Google Gemini.
+### Artificial Intelligence (AI)
+[!WARNING]
+Abandoned
+- [yai](https://github.com/ekkinox/yai) - AI-powered terminal assistant.
+- [claude-code](https://code.claude.com/docs/pt/quickstart) - CLI interface for Claude.
+- [agy](https://antigravity.google/docs/getting-started/) - CLI client for Google Gemini.
 - [codex](https://developers.openai.com/codex/cli) - OpenAI Codex CLI.
-- [cline](https://docs.cline.bot/cline-cli/installation) - Ferramenta de desenvolvimento auxiliada por IA.
-- [qwen-code](https://qwen.ai/qwencode) - CLI para modelos Qwen Code.
-- [hermes-agent](https://github.com/nousresearch/hermes-agent) - Agente autônomo baseado em LLM.
+- [cline](https://docs.cline.bot/cline-cli/installation) - AI-assisted development tool.
+- [qwen-code](https://qwen.ai/qwencode) - CLI for Qwen Code models.
+- [goose](https://block.github.io/goose/) - Extensible AI agent for software engineering.
+- [aider](https://aider.chat/) - Pair coding with LLMs in the terminal.
+- [pi](https://pi.ai/) - Personal AI assistant.
+- [opencode](https://opencode.ai/) - AI coding agent in the terminal.
+
+### IA Agents
+- [grok-bot](https://github.com/xai-org/grok) - xAI's AI bot.
+- [openbot](https://github.com/openbot-org/openbot) - Open source AI bot.
+- [openclaw](https://github.com/openclaw/openclaw) - Open-clawed AI agent.
+- [hermes-agent](https://github.com/nousresearch/hermes-agent) - Autonomous LLM-based agent.
 
 ### Frontend
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Verifica suporte de recursos web.
-- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Remove comentários de CSS.
-- [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Lista viewports de diversos dispositivos.
-- [surge](https://surge.sh) - Publicação estática simples.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Expõe seu localhost para a web.
-- [tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Ferramenta de tunelamento simples.
-- [ngrok](https://ngrok.com/) - Túneis seguros para localhost.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Checks web feature support.
+- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - Removes CSS comments.
+- [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - Lists viewports of various devices.
+- [surge](https://surge.sh) - Simple static publishing.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the web.
+- [tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) - Simple tunneling tool.
+- [ngrok](https://ngrok.com/) - Secure tunnels to localhost.
 
 ### Mobile
-- [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Gerador de ícones para apps mobile.
-- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Gerador de splash screens.
-- [deviceframe](https://github.com/c0bra/deviceframe) - Adiciona molduras de dispositivos em screenshots.
+- [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
+- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - Mobile splash screen generator.
+- [deviceframe](https://github.com/c0bra/deviceframe) - Adds device frames to screenshots.
 
-### DevOps e Docker
-- [lstags](https://github.com/ivanilves/lstags) - Sincroniza imagens entre registries.
-- [dockly](https://github.com/lirantal/dockly) - Gerenciamento interativo de containers.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - Interface TUI para Docker e Docker Compose.
-- [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Envia README para registries de containers.
-- [ctop](https://github.com/bcicen/ctop) - Interface tipo top para métricas de containers.
-- [decompose](https://github.com/s0rg/decompose) - Gera gráfico de conexões de containers.
-- [kool](https://github.com/kool-dev/kool) - Desenvolvimento web com containers facilitado.
-- [htconvert](https://github.com/lukechilds/htconvert) - Converte redirecionamentos .htaccess para Nginx.
-- [SAWS](https://github.com/donnemartin/saws) - CLI da AWS supercharged.
-- [s3cmd](https://github.com/s3tools/s3cmd) - Cliente S3 completo.
-- [s5cmd](https://github.com/peak/s5cmd) - Ferramenta rápida para execução em S3 e filesystem local.
-- [pm2](https://github.com/Unitech/pm2) - Gerenciador de processos para Node.js.
-- [k9s](https://github.com/derailed/k9s) - Gerenciamento de clusters Kubernetes.
-- [PingMe](https://github.com/kha7iq/pingme) - Envia alertas para múltiplas plataformas.
-- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploy de sites estáticos no IPFS.
-- [updatecli](https://github.com/updatecli/updatecli) - Ferramenta declarativa de gerenciamento de dependências.
-- [logdy](https://github.com/logdyhq/logdy-core) - Logs do terminal com interface web.
-- [updo](https://github.com/Owloops/updo) - Monitoramento de sites.
-- [bencher](https://github.com/bencherdev/bencher) - Ferramenta de benchmarking contínuo.
+### DevOps and Docker
+- [lstags](https://github.com/ivanilves/lstags) - Syncs images between registries.
+- [dockly](https://github.com/lirantal/dockly) - Interactive container management.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - TUI for Docker and Docker Compose.
+- [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Pushes README to container registries.
+- [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
+- [decompose](https://github.com/s0rg/decompose) - Generates container connection graphs.
+- [kool](https://github.com/kool-dev/kool) - Container-based web development made easy.
+- [htconvert](https://github.com/lukechilds/htconvert) - Converts .htaccess redirects to Nginx.
+- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+- [s3cmd](https://github.com/s3tools/s3cmd) - Full-featured S3 client.
+- [s5cmd](https://github.com/peak/s5cmd) - Fast S3 and local filesystem execution tool.
+- [pm2](https://github.com/Unitech/pm2) - Process manager for Node.js.
+- [k9s](https://github.com/derailed/k9s) - Kubernetes cluster management.
+- [PingMe](https://github.com/kha7iq/pingme) - Sends alerts to multiple platforms.
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Deploys static sites to IPFS.
+- [updatecli](https://github.com/updatecli/updatecli) - Declarative dependency management tool.
+- [logdy](https://github.com/logdyhq/logdy-core) - Terminal logs with web interface.
+- [updo](https://github.com/Owloops/updo) - Website monitoring.
+- [bencher](https://github.com/bencherdev/bencher) - Continuous benchmarking tool.
 
-### Release e NPM
-- [release-it](https://github.com/webpro/release-it) - Automatiza releases para Git e NPM.
-- [clog](https://github.com/clog-tool/clog-cli) - Gerador de changelog convencional.
-- [np](https://github.com/sindresorhus/np) - Um `npm publish` melhorado.
-- [semantic-release](https://github.com/semantic-release/semantic-release) - Gerenciamento de versão e publicação automatizada.
-- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Busca versões novas de dependências.
-- [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` de projetos inativos.
-- [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Verifica dependências depreciadas.
+### Release and NPM
+- [release-it](https://github.com/webpro/release-it) - Automates releases for Git and NPM.
+- [clog](https://github.com/clog-tool/clog-cli) - Conventional changelog generator.
+- [np](https://github.com/sindresorhus/np) - Better `npm publish`.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Automated version management and publishing.
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Finds newer dependency versions.
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - Removes `node_modules` from inactive projects.
+- [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Checks for deprecated dependencies.
 
-### Boilerplate e Servidores
-- [yo](https://github.com/yeoman/yo) - Ferramenta de scaffolding Yeoman.
-- [boilr](https://github.com/tmrts/boilr) - Cria projetos a partir de templates.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - Cria projetos de templates.
-- [serve](https://github.com/vercel/serve) - Servidor de arquivos estáticos robusto.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Servidor HTTP simples para diretório local.
+### Boilerplate and Servers
+- [yo](https://github.com/yeoman/yo) - Yeoman scaffolding tool.
+- [boilr](https://github.com/tmrts/boilr) - Creates projects from templates.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from templates.
+- [serve](https://github.com/vercel/serve) - Robust static file server.
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - Simple HTTP server for local directory.
 
-### HTTP Clients e Testing
-- [HTTPie](https://github.com/httpie/httpie) - Cliente HTTP amigável.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Cliente HTTP interativo com autocompletar.
-- [curlie](https://github.com/rs/curlie) - Frontend curl com facilidade do HTTPie.
-- [ATAC](https://github.com/Julien-cpsn/ATAC) - Cliente API TUI feito em Rust.
-- [shellspec](https://github.com/shellspec/shellspec) - Framework de testes BDD para shell.
+### HTTP Clients and Testing
+- [HTTPie](https://github.com/httpie/httpie) - Friendly HTTP client.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client with autocomplete.
+- [curlie](https://github.com/rs/curlie) - curl frontend with HTTPie ease.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - TUI API client written in Rust.
+- [shellspec](https://github.com/shellspec/shellspec) - BDD testing framework for shell.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-- [cmdperf](https://github.com/miklosn/cmdperf) - Benchmark de performance de comandos.
+- [cmdperf](https://github.com/miklosn/cmdperf) - Command performance benchmark.
 
-## Produtividade
+## Productivity
 
-### Gestão de Tempo
-- [Timetrap](https://github.com/samg/timetrap) - Rastreador de tempo simples.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utilitário de rastreamento de tempo flexível.
-- [Watson](https://github.com/TailorDev/Watson) - Gerencia seu tempo e gera relatórios.
-- [arttime](https://github.com/reportaman/arttime) - Timer com notificações e ASCII art.
-- [Tock](https://github.com/kriuchkov/tock) - Ferramenta poderosa de rastreamento de tempo.
+### Time Management
+- [Timetrap](https://github.com/samg/timetrap) - Simple time tracker.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Flexible time tracking utility.
+- [Watson](https://github.com/TailorDev/Watson) - Manages your time and generates reports.
+- [arttime](https://github.com/reportaman/arttime) - Timer with notifications and ASCII art.
+- [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 
-### Notas e Listas
-- [idea](https://github.com/IonicaBizau/idea) - Ferramenta leve para guardar ideias rapidamente.
-- [Taskwarrior](https://taskwarrior.org/) - Gerenciador de listas de tarefas TODO.
-- [taskbook](https://github.com/klaussinani/taskbook) - Tarefas, quadros e notas.
-- [nb](https://github.com/xwmx/nb) - Notas, favoritos e base de conhecimento.
-- [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Interage com seu vault do Obsidian.
-- [kanban](https://github.com/fulsomenko/kanban) - Gerenciador de projetos Kanban TUI.
+### Notes and Lists
+- [idea](https://github.com/IonicaBizau/idea) - Lightweight tool to quickly save ideas.
+- [Taskwarrior](https://taskwarrior.org/) - TODO task list manager.
+- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards, and notes.
+- [nb](https://github.com/xwmx/nb) - Notes, bookmarks, and knowledge base.
+- [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Interacts with your Obsidian vault.
+- [kanban](https://github.com/fulsomenko/kanban) - Kanban project manager TUI.
 
-### Finanças
-- [ledger](https://ledger-cli.org/) - Sistema de contabilidade de dupla entrada.
-- [hledger](https://hledger.org/) - Ferramenta de contabilidade em texto puro rápida e intuitiva.
-- [moeda](https://github.com/thompsonemerson/moeda) - Conversão de moedas e taxas de câmbio.
-- [cointop](https://github.com/miguelmota/cointop) - Acompanhe criptomoedas.
-- [ticker](https://github.com/achannarasappa/ticker) - Ticker de ações.
+### Finance
+- [ledger](https://ledger-cli.org/) - Double-entry accounting system.
+- [hledger](https://hledger.org/) - Fast, intuitive plain-text accounting tool.
+- [moeda](https://github.com/thompsonemerson/moeda) - Currency conversion and exchange rates.
+- [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
+- [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
 
-### Apresentações e Calendários
-- [mdp](https://github.com/visit1985/mdp) - Ferramenta de apresentações em markdown.
-- [slides](https://github.com/maaslalani/slides) - Ferramenta de apresentações moderna.
-- [marp](https://github.com/marp-team/marp-cli) - Exporta Markdown para apresentações HTML/PDF.
-- [calcurse](https://calcurse.org/) - Calendário e agendamento.
-- [gcalcli](https://github.com/insanum/gcalcli) - Cliente do Google Calendar.
-- [khal](https://github.com/pimutils/khal) - Calendário compatível com CalDAV.
+### Presentations and Calendars
+- [mdp](https://github.com/visit1985/mdp) - Markdown presentation tool.
+- [slides](https://github.com/maaslalani/slides) - Modern presentation tool.
+- [marp](https://github.com/marp-team/marp-cli) - Exports Markdown to HTML/PDF presentations.
+- [calcurse](https://calcurse.org/) - Calendar and scheduling.
+- [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar client.
+- [khal](https://github.com/pimutils/khal) - CalDAV-compatible calendar.
 
-## Utilitários
+## Utilities
 
-### Sistema
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Informações do sistema rápidas e bonitas.
-- [glances](https://nicolargo.github.io/glances/) - Monitoramento de sistema completo.
-- [tiptop](https://github.com/nschloe/tiptop) - Monitor de sistema gráfico.
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Finalizador de processos multiplataforma.
-- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Verifica nível da bateria.
-- [Clipboard](https://github.com/Slackadays/Clipboard) - Gerenciador de área de transferência universal.
-- [yank](https://github.com/mptre/yank) - Copia saída do terminal para o clipboard.
+### System
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Fast and beautiful system info.
+- [glances](https://nicolargo.github.io/glances/) - Complete system monitoring.
+- [tiptop](https://github.com/nschloe/tiptop) - Graphical system monitor.
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Cross-platform process killer.
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - Checks battery level.
+- [Clipboard](https://github.com/Slackadays/Clipboard) - Universal clipboard manager.
+- [yank](https://github.com/mptre/yank) - Copies terminal output to clipboard.
 
-### Rede e SSH
-- [mosh](https://mosh.org/) - SSH com suporte a roaming e conexões intermitentes.
-- [tmate](https://tmate.io/) - Compartilhamento instantâneo de terminal.
-- [sshuttle](https://github.com/sshuttle/sshuttle) - Proxy transparente via SSH.
-- [bandwhich](https://github.com/imsnif/bandwhich) - Monitora utilização de largura de banda por processo.
-- [speed-test](https://github.com/sindresorhus/speed-test) - Teste de velocidade da internet.
+### Network and SSH
+- [mosh](https://mosh.org/) - SSH with roaming and intermittent connection support.
+- [tmate](https://tmate.io/) - Instant terminal sharing.
+- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy via SSH.
+- [bandwhich](https://github.com/imsnif/bandwhich) - Monitors bandwidth usage by process.
+- [speed-test](https://github.com/sindresorhus/speed-test) - Internet speed test.
 
-### Personalização
-- [oh-my-posh](https://ohmyposh.dev) - Motor de temas para prompt.
-- [starship](https://github.com/starship/starship) - Prompt minimalista e extremamente rápido.
-- [themer](https://github.com/mjswensen/themer) - Gera temas para editor, terminal e wallpaper.
-- [gowall](https://github.com/Achno/gowall) - Manipulação de cores e recolorização de imagens.
+### Customization
+- [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
+- [starship](https://github.com/starship/starship) - Minimal, extremely fast prompt.
+- [themer](https://github.com/mjswensen/themer) - Generates themes for editor, terminal, and wallpaper.
+- [gowall](https://github.com/Achno/gowall) - Color manipulation and image recoloring.
 
 ### Shell
-- [Ultimate Plumber](https://github.com/akavel/up) - Cria pipes Linux com preview em tempo real.
-- [has](https://github.com/kdabir/has) - Verifica presença e versão de comandos.
-- [envio](https://github.com/envio-cli/envio) - Gerenciamento seguro de variáveis de ambiente.
-- [aha](https://github.com/theZiz/aha) - Converte saída ANSI para HTML.
+- [Ultimate Plumber](https://github.com/akavel/up) - Creates Linux pipes with real-time preview.
+- [has](https://github.com/kdabir/has) - Checks command presence and version.
+- [envio](https://github.com/envio-cli/envio) - Secure environment variable management.
+- [aha](https://github.com/theZiz/aha) - Converts ANSI output to HTML.
 
-## Arquivos e Diretórios
+## Files and Directories
 
-### Gerenciadores de Arquivos
-- [ranger](https://github.com/ranger/ranger) - Gerenciador com bindings de VI.
-- [nnn](https://github.com/jarun/nnn) - Navegador de arquivos e analisador de uso de disco.
-- [yazi](https://github.com/sxyazi/yazi) - Gerenciador de arquivos extremamente rápido.
-- [xplr](https://github.com/sayanarijit/xplr) - Explorador de arquivos TUI hackeável e minimalista.
+### File Managers
+- [ranger](https://github.com/ranger/ranger) - File manager with VI bindings.
+- [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer.
+- [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - Hackable, minimal TUI file explorer.
 
-### Navegação e Busca
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - Jumper de diretórios rápido em Rust.
-- [autojump](https://github.com/wting/autojump) - Comando `cd` que aprende seus hábitos.
-- [fzf](https://github.com/junegunn/fzf) - Fuzzy finder de propósito geral.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Ferramenta de busca recursiva extremamente rápida.
-- [fd](https://github.com/sharkdp/fd) - Alternativa simples e rápida ao `find`.
-- [broot](https://github.com/Canop/broot) - Navegador de diretórios com visualização de espaço.
+### Navigation and Search
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
+- [autojump](https://github.com/wting/autojump) - `cd` command that learns your habits.
+- [fzf](https://github.com/junegunn/fzf) - General-purpose fuzzy finder.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Extremely fast recursive search tool.
+- [fd](https://github.com/sharkdp/fd) - Simple, fast alternative to `find`.
+- [broot](https://github.com/Canop/broot) - Directory browser with space visualization.
 
-### Utilitários de Arquivo
-- [bat](https://github.com/sharkdp/bat) - Clone do `cat` com destaque de sintaxe.
-- [eza](https://github.com/eza-community/eza) - Versão melhorada do `ls`.
-- [lsd](https://github.com/Peltoche/lsd) - `ls` com ícones e cores.
-- [dust](https://github.com/bootandy/dust) - Versão intuitiva do `du` em Rust.
-- [duf](https://github.com/muesli/duf) - Alternativa melhorada ao `df`.
-- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move arquivos para a lixeira via terminal.
-- [rclone](https://github.com/ncw/rclone) - Sincroniza arquivos com diversos provedores de nuvem.
-- [croc](https://github.com/schollz/croc) - Envio fácil de arquivos entre computadores.
+### File Utilities
+- [bat](https://github.com/sharkdp/bat) - `cat` clone with syntax highlighting.
+- [eza](https://github.com/eza-community/eza) - Improved `ls` version.
+- [lsd](https://github.com/Peltoche/lsd) - `ls` with icons and colors.
+- [dust](https://github.com/bootandy/dust) - Intuitive `du` version in Rust.
+- [duf](https://github.com/muesli/duf) - Improved `df` alternative.
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Moves files to trash via terminal.
+- [rclone](https://github.com/ncw/rclone) - Syncs files with various cloud providers.
+- [croc](https://github.com/schollz/croc) - Easy file transfer between computers.
 
-## Manipulação de Dados
+## Data Manipulation
 
 ### Viewers
-- [jq](https://github.com/stedolan/jq) - Processador de JSON.
-- [yq](https://github.com/kislyuk/yq) - Processador de YAML.
-- [dasel](https://github.com/tomwright/dasel) - Processador multi-formato (JSON/YAML/TOML/XML).
-- [visidata](https://github.com/saulpw/visidata) - Ferramenta multiuso para planilhas e exploração de dados.
-- [fx](https://github.com/antonmedv/fx) - Visualizador interativo de JSON.
-- [gron](https://github.com/tomnomnom/gron) - Torna o JSON "grepável".
+- [jq](https://github.com/stedolan/jq) - JSON processor.
+- [yq](https://github.com/kislyuk/yq) - YAML processor.
+- [dasel](https://github.com/tomwright/dasel) - Multi-format processor (JSON/YAML/TOML/XML).
+- [visidata](https://github.com/saulpw/visidata) - Multi-purpose tool for spreadsheets and data exploration.
+- [fx](https://github.com/antonmedv/fx) - Interactive JSON viewer.
+- [gron](https://github.com/tomnomnom/gron) - Makes JSON "greppable".
 
-### Texto e Markdown
-- [glow](https://github.com/charmbracelet/glow) - Renderizador de Markdown estilizado.
-- [doctoc](https://github.com/thlorenz/doctoc) - Gera sumários para arquivos markdown.
-- [figlet](http://www.figlet.org/) - Cria banners de texto ASCII.
-- [stegcloak](https://github.com/kurolabs/stegcloak) - Esconde segredos em texto puro usando caracteres invisíveis.
+### Text and Markdown
+- [glow](https://github.com/charmbracelet/glow) - Stylized Markdown renderer.
+- [doctoc](https://github.com/thlorenz/doctoc) - Generates TOC for markdown files.
+- [figlet](http://www.figlet.org/) - Creates ASCII text banners.
+- [stegcloak](https://github.com/kurolabs/stegcloak) - Hides secrets in plain text using invisible characters.
 
-## Controle de Versão
+## Version Control
 
 ### Git & GitHub
-- [git](https://git-scm.com/install/linux) - O sistema de controle de versão padrão.
-- [github](https://cli.github.com/) - CLI oficial do GitHub.
-- [lazygit](https://github.com/jesseduffield/lazygit) - Interface TUI simples para comandos git.
-- [gitui](https://github.com/extrawurst/gitui) - Interface TUI rápida para git escrita em Rust.
-- [tig](https://github.com/jonas/tig) - Interface modo texto para git.
-- [git-standup](https://github.com/kamranahmedse/git-standup) - Relembra o que você fez no último dia de trabalho.
-- [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Gera mensagens de commit padronizadas interativamente.
+- [git](https://git-scm.com/install/linux) - The standard version control system.
+- [github](https://cli.github.com/) - Official GitHub CLI.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [gitui](https://github.com/extrawurst/gitui) - Fast TUI for git written in Rust.
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git.
+- [git-standup](https://github.com/kamranahmedse/git-standup) - Recalls what you did on the last work day.
+- [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generates standardized commit messages.
 
-## Mídia e Gráficos
+## Media and Graphics
 
-### Imagens e GIFs
-- [imagemagick](https://imagemagick.org) - A ferramenta padrão para manipulação de imagens.
-- [svgo](https://github.com/svg/svgo) - Otimiza arquivos SVG.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Gera imagens bonitas do seu código.
-- [freeze](https://github.com/charmbracelet/freeze) - Gera imagens de código e saídas de terminal.
-- [gifgen](https://github.com/lukechilds/gifgen) - Codificação de GIF de alta qualidade.
-- [asciinema](https://github.com/asciinema/asciinema) - Gravador de sessões de terminal.
+### Images and GIFs
+- [imagemagick](https://imagemagick.org) - The standard image manipulation tool.
+- [svgo](https://github.com/svg/svgo) - Optimizes SVG files.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generates beautiful images of your code.
+- [freeze](https://github.com/charmbracelet/freeze) - Generates images of code and terminal output.
+- [gifgen](https://github.com/lukechilds/gifgen) - High-quality GIF encoding.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
 
-### Gráficos
-- [pastel](https://github.com/sharkdp/pastel) - Gera, analisa e converte cores.
-- [lowcharts](https://github.com/juan-leon/lowcharts) - Desenha gráficos de baixa resolução no terminal.
-- [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Gera sparklines ▁▂▃▅▂▇.
+### Graphics
+- [pastel](https://github.com/sharkdp/pastel) - Generates, analyzes, and converts colors.
+- [lowcharts](https://github.com/juan-leon/lowcharts) - Draws low-resolution charts in the terminal.
+- [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generates sparklines ▁▂▃▅▂▇.
 
-## Conhecimento
-- [cmdchallenge](https://cmdchallenge.com) - Pequenos desafios de shell com soluções da comunidade.
-- [explainshell](https://www.explainshell.com/) - Explica o que cada argumento de um comando faz.
-- [tldr](https://github.com/tldr-pages/tldr) - Páginas de manual simplificadas e focadas em exemplos.
-- [howdoi](https://github.com/gleitz/howdoi) - Respostas instantâneas de programação.
-- [navi](https://github.com/denisidoro/navi) - Ferramenta de cheatsheet interativa.
-- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - Tabela Periódica dos Elementos no terminal.
-- [astroterm](https://github.com/da-luce/astroterm) - Planetário ASCII.
+## Knowledge
+- [cmdchallenge](https://cmdchallenge.com) - Small shell challenges with community solutions.
+- [explainshell](https://www.explainshell.com/) - Explains what each command argument does.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified, example-focused man pages.
+- [howdoi](https://github.com/gleitz/howdoi) - Instant programming answers.
+- [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
+- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - Periodic Table of Elements in the terminal.
+- [astroterm](https://github.com/da-luce/astroterm) - ASCII planetarium.
 
-## Diversão
-- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Citações aleatórias no seu terminal.
-- [fortune](https://github.com/shlomif/fortune-mod) - Mostra uma "sorte" aleatória.
-- [lolcat](https://github.com/busyloop/lolcat) - Colore a saída do terminal com cores do arco-íris.
-- [cmatrix](https://github.com/Treri/cmatrix) - Efeito de chuva de código do filme Matrix.
-- [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Animações elaboradas para texto.
-- [emoj](https://github.com/sindresorhus/emoj) - Encontre emojis relevantes a partir de texto.
+## Fun
+- [quote-cli](https://github.com/riyadhalnur/quote-cli) - Random quotes in your terminal.
+- [fortune](https://github.com/shlomif/fortune-mod) - Shows a random "fortune".
+- [lolcat](https://github.com/busyloop/lolcat) - Colors terminal output with rainbow colors.
+- [cmatrix](https://github.com/Treri/cmatrix) - Matrix code rain effect from the movie.
+- [terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Elaborate text animations.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emojis from text.
 
-## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+## How to Contribute
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Licença
-Veja o arquivo [LICENSE](LICENSE) para detalhes.
+## License
+See the [LICENSE](LICENSE) file for details.
