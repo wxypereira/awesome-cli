@@ -106,8 +106,6 @@ Este repositorio no pretende ser un directorio exhaustivo, sino una fuente curad
 - [squix](https://github.com/eduardofuncao/squix) - Cliente SQL con gestión de consultas.
 
 ### Inteligencia Artificial (AI)
-[!WARNING]
-Abandonado
 - [yai](https://github.com/ekkinox/yai) - Asistente de terminal impulsado por IA.
 - [claude-code](https://code.claude.com/docs/pt/quickstart) - Interfaz CLI para Claude.
 - [agy](https://antigravity.google/docs/getting-started/) - Cliente CLI para Google Gemini.
