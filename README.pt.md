@@ -229,6 +229,7 @@ Abandoned
 - [yank](https://github.com/mptre/yank) - Copia saída do terminal para o clipboard.
 
 ### Rede e SSH
+- [kilobat-cli](https://github.com/seifip/kilobat-cli) - Diagnóstico de rede no macOS com CLI e servidor MCP local.
 - [mosh](https://mosh.org/) - SSH com suporte a roaming e conexões intermitentes.
 - [tmate](https://tmate.io/) - Compartilhamento instantâneo de terminal.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Proxy transparente via SSH.
